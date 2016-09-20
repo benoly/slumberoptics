@@ -1,0 +1,48 @@
+.container {
+  width: 60vw;
+  height: auto;
+  margin: auto;
+  background: linear-gradient(to right, cornsilk 50%, darkturquoise 50%);
+  text-align: center;
+}
+
+img {
+  margin-top: 6%;
+  width: 80%;
+  max-width: 566px;
+  height: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container h2, .container h3, .container h4 {
+  font-family: "Quicksand";
+}
+
+.container h2 {
+  letter-spacing: 10px;
+}
+
+.container h3 {
+  letter-spacing: 3px;
+}
+
+.container h4 {
+  letter-spacing: 3px;
+  padding-bottom: 20px;
+}
+
+.container h1 {
+  font-family: "Playfair Display";
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: 60px;
+}
+
+#large {
+  font-size: 80px;
+}
+
+#small {
+  font-size: 60px;
+}
