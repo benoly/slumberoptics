@@ -46,3 +46,8 @@ img {
 #small {
   font-size: 60px;
 }
+
+a {
+  color: black;
+  text-decoration: none;
+}
